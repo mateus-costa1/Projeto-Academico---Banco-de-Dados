@@ -43,11 +43,11 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-Mateus Costa(https://github.com/mateus-costa1?tab=repositories)
-Lucas Silva(https://github.com/lucassilva0)
-Aline Pereira(https://github.com/Aline-Pereira98/)
-Valdeno(https://github.com/VOS04)
-Ivan(https://github.com/Iv4N2)
+ - Mateus Costa(https://github.com/mateus-costa1?tab=repositories)
+ - Lucas Silva(https://github.com/lucassilva0)
+ - Aline Pereira(https://github.com/Aline-Pereira98/)
+ - Valdeno(https://github.com/VOS04)
+ - Ivan(https://github.com/Iv4N2)
 
 
 # Licença
